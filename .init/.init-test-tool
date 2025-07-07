@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/cricketpulse-live-fan-engage-10738-cab12e91/frontend_react"
+}
